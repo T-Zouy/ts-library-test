@@ -5,6 +5,7 @@
     "outDir": "build/module",
     "module": "esnext"
   },
+  "types":["node"],
   "exclude": [
     "node_modules/**"
   ]
