@@ -5,9 +5,9 @@
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
-  "repository": "https://github.com/YOUR_GITHUB_USER_NAME/ouy",
+  "repository": "https://github.com/T-Zouy/ts-library-test",
   "license": "MIT",
-  "keywords": [],
+  "keywords": ["typescript", "library"],
   "scripts": {
     "info": "npm-scripts-info",
     "build": "run-s clean && run-p build:*",
